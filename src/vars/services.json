@@ -1,0 +1,21 @@
+{
+    "data": [{
+            "id": 1,
+            "image": "images/services/web-development.png",
+            "title": "Information Technology",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "image": "images/services/process.png",
+            "title": "Business Process Outsourcing",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 3,
+            "image": "images/services/marketing.png",
+            "title": "Marketing",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": [{
+            "id": 1,
+            "image": "images/services/web-development.png",
+            "title": "Information Technology",
+            "servicesType": "Virtual Offices Setup",
+            "servicesDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "image": "images/services/process.png",
+            "title": "Business Process Outsourcing",
+            "servicesType": "Business Consultation",
+            "servicesDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 3,
+            "image": "images/services/marketing.png",
+            "title": "Marketing",
+            "servicesType": "BPO Consultancy & Services",
+            "servicesDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ]
+}

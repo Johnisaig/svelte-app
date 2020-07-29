@@ -1,0 +1,51 @@
+{
+    "data": [{
+            "id": 1,
+            "image": "images/employee/anthony.jpg",
+            "position": "Executive Chairman",
+            "fullname": "Anthony"
+        },
+        {
+            "id": 2,
+            "image": "images/employee/elizabeth.jpg",
+            "position": "Chief Executive Officer",
+            "fullname": "Elizabeth"
+        },
+        {
+            "id": 3,
+            "image": "images/employee/grunt.jpg",
+            "position": "Chief Information Officer",
+            "fullname": "Grunt"
+        },
+        {
+            "id": 4,
+            "image": "images/employee/harley.jpg",
+            "position": "Finance Director",
+            "fullname": "Harley"
+        },
+        {
+            "id": 5,
+            "image": "images/employee/paul.jpg",
+            "position": "Head of Project Management",
+            "fullname": "Paul"
+        },
+        {
+            "id": 6,
+            "image": "images/employee/sebastian.jpg",
+            "position": "Head of Services Delivery",
+            "fullname": "Sebastian"
+        },
+        {
+            "id": 7,
+            "image": "images/employee/tom.jpg",
+            "position": "Head of Services Delivery",
+            "fullname": "Tom Tom"
+        },
+        {
+            "id": 8,
+            "image": "images/employee/tom-holland.jpg",
+            "position": "IT Directors",
+            "fullname": "Tom Holland"
+        }
+    ]
+}
