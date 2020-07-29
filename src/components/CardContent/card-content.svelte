@@ -36,7 +36,7 @@
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 35px;
     font-weight: bold;
     animation: animation 2s ease-in-out;
   }
